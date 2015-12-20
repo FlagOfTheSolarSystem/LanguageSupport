@@ -1,0 +1,25 @@
+enabled:
+  1A:
+    langName: German
+    nativeName: Deutsch
+    characters:
+      1AA:
+        - Eszett
+        - 0223
+      1AB:
+        - a with umlaut
+        - 132
+      1AC:
+        - A with umlaut
+        - 142
+disabled:
+  2A:
+    langName: Polish
+    nativeName: Polski
+    characters:
+      2AA:
+        - a with ogonek
+        - 0105
+      2AB:
+        - A with ogonek
+        - 0104

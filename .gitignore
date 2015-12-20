@@ -16,7 +16,7 @@ local.properties
 
 # Java
 *.class
-.jar
+*.jar
 
 # Maven
 target/
